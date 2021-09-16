@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Microsoft.Threading
+namespace AsyncConsole
 {
     /// <summary>
     /// https://devblogs.microsoft.com/pfxteam/await-synchronizationcontext-and-console-apps/
